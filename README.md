@@ -1,14 +1,15 @@
 ## Oi, Eu sou o Vitor da Silveira.
 ### Bem vindo ao meu perfil
 
-- 🌱 Sou estudante de Ciências de Computação na Universidade de São Paulo (USP)
+- 💻 Sou estudante de ciências de computação na Universidade de São Paulo (USP)
+- 📚 Gosto de aprender coisas novas.
 <div align="center">
   <a href="https://github.com/Vit0rSilveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vit0rSilveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vit0rSilveira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vit0rSilveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vit0rSilveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-  <div style="display: inline_block"><br>
+  
+ <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vitor-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
