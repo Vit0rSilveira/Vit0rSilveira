@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil
 
 - 💻 Sou estudante de ciências de computação na Universidade de São Paulo (USP)
-- 📚 Gosto de aprender coisas novas.
+- 📚 Gosto de aprender novas tecnologias e me manter atualizado!
 <div align="center">
   <a href="https://github.com/Vit0rSilveira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vit0rSilveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
